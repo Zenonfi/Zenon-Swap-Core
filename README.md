@@ -1,4 +1,4 @@
-# VVS Swap Core
+# ZENON Swap Core
 
 ## Requirement:
 
